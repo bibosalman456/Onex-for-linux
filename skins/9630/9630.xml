@@ -1,0 +1,341 @@
+<skin>
+<!--
+Colors: Colors may be specified as RGB values in the form of r,g,b. System color names may also be entered in text form.
+Recognized system colors are:
+  white
+  black
+  light gray
+  dark gray
+-->
+
+<components>
+
+<background>
+  <img src="background.jpg" width="100%" height="100%" />
+</background>
+
+<messageWaitingOn>
+  <img src="message_lamp_on.jpg" width="100%" height="100%" />
+</messageWaitingOn>
+
+<messageWaitingOff>
+  <img src="message_lamp_off.jpg" width="100%" height="100%" />
+</messageWaitingOff>
+
+<lineOn>
+  <img src="line_app_on.jpg" width="100%" height="100%" />
+</lineOn>
+
+<lineOn_down>
+  <img src="line_app_on_down.jpg" width="100%" height="100%" />
+</lineOn_down>
+
+<lineOff>
+  <img src="line_app_off.jpg" width="100%" height="100%" />
+</lineOff>
+
+<lineOff_down>
+  <img src="line_app_off_down.jpg" width="100%" height="100%" />
+</lineOff_down>
+
+<messageOn>
+  <img src="message_on.jpg" width="100%" height="100%" />
+</messageOn>
+
+<messageOn_down>
+  <img src="message_on_down.jpg" width="100%" height="100%" />
+</messageOn_down>
+
+<messageOff>
+  <img src="message_off.jpg" width="100%" height="100%" />
+</messageOff>
+
+<messageOff_down>
+  <img src="message_off_down.jpg" width="100%" height="100%" />
+</messageOff_down>
+
+<forwardOn>
+  <img src="forward_on.jpg" width="100%" height="100%" />
+</forwardOn>
+
+<forwardOn_down>
+  <img src="forward_on_down.jpg" width="100%" height="100%" />
+</forwardOn_down>
+
+<forwardOff>
+  <img src="forward_off.jpg" width="100%" height="100%" />
+</forwardOff>
+
+<forwardOff_down>
+  <img src="forward_off_down.jpg" width="100%" height="100%" />
+</forwardOff_down>
+
+<headsetOn>
+  <img src="headset_on.jpg" width="100%" height="100%" />
+</headsetOn>
+
+<headsetOn_down>
+  <img src="headset_on_down.jpg" width="100%" height="100%" />
+</headsetOn_down>
+
+<headsetOff>
+  <img src="headset_off.jpg" width="100%" height="100%" />
+</headsetOff>
+
+<headsetOff_down>
+  <img src="headset_off_down.jpg" width="100%" height="100%" />
+</headsetOff_down>
+
+<speakerOn>
+  <img src="speaker_on.jpg" width="100%" height="100%" />
+</speakerOn>
+
+<speakerOn_down>
+  <img src="speaker_on_down.jpg" width="100%" height="100%" />
+</speakerOn_down>
+
+<speakerOff>
+  <img src="speaker_off.jpg" width="100%" height="100%" />
+</speakerOff>
+
+<speakerOff_down>
+  <img src="speaker_off_down.jpg" width="100%" height="100%" />
+</speakerOff_down>
+
+<muteOn>
+  <img src="mute_on.jpg" width="100%" height="100%" />
+</muteOn>
+
+<muteOn_down>
+  <img src="mute_on_down.jpg" width="100%" height="100%" />
+</muteOn_down>
+
+<muteOff>
+  <img src="mute_off.jpg" width="100%" height="100%" />
+</muteOff>
+
+<muteOff_down>
+  <img src="mute_off_down.jpg" width="100%" height="100%" />
+</muteOff_down>
+
+<softkey1>
+  <img src="softkey1.jpg" width="100%" height="100%" />
+</softkey1>
+
+<softkey1_down>
+  <img src="softkey1_down.jpg" width="100%" height="100%" />
+</softkey1_down>
+
+<softkey2>
+  <img src="softkey2.jpg" width="100%" height="100%" />
+</softkey2>
+
+<softkey2_down>
+  <img src="softkey2_down.jpg" width="100%" height="100%" />
+</softkey2_down>
+
+<softkey3>
+  <img src="softkey3.jpg" width="100%" height="100%" />
+</softkey3>
+
+<softkey3_down>
+  <img src="softkey3_down.jpg" width="100%" height="100%" />
+</softkey3_down>
+
+<softkey4>
+  <img src="softkey4.jpg" width="100%" height="100%" />
+</softkey4>
+
+<softkey4_down>
+  <img src="softkey4_down.jpg" width="100%" height="100%" />
+</softkey4_down>
+
+<num0>
+  <img src="num0.jpg" width="100%" height="100%" />
+</num0>
+
+<num0_down>
+  <img src="num0_down.jpg" width="100%" height="100%" />
+</num0_down>
+
+<num1>
+  <img src="num1.jpg" width="100%" height="100%" />
+</num1>
+
+<num1_down>
+  <img src="num1_down.jpg" width="100%" height="100%" />
+</num1_down>
+
+<num2>
+  <img src="num2.jpg" width="100%" height="100%" />
+</num2>
+
+<num2_down>
+  <img src="num2_down.jpg" width="100%" height="100%" />
+</num2_down>
+
+<num3>
+  <img src="num3.jpg" width="100%" height="100%" />
+</num3>
+
+<num3_down>
+  <img src="num3_down.jpg" width="100%" height="100%" />
+</num3_down>
+
+<num4>
+  <img src="num4.jpg" width="100%" height="100%" />
+</num4>
+
+<num4_down>
+  <img src="num4_down.jpg" width="100%" height="100%" />
+</num4_down>
+
+<num5>
+  <img src="num5.jpg" width="100%" height="100%" />
+</num5>
+
+<num5_down>
+  <img src="num5_down.jpg" width="100%" height="100%" />
+</num5_down>
+
+<num6>
+  <img src="num6.jpg" width="100%" height="100%" />
+</num6>
+
+<num6_down>
+  <img src="num6_down.jpg" width="100%" height="100%" />
+</num6_down>
+
+<num7>
+  <img src="num7.jpg" width="100%" height="100%" />
+</num7>
+
+<num7_down>
+  <img src="num7_down.jpg" width="100%" height="100%" />
+</num7_down>
+
+<num8>
+  <img src="num8.jpg" width="100%" height="100%" />
+</num8>
+
+<num8_down>
+  <img src="num8_down.jpg" width="100%" height="100%" />
+</num8_down>
+
+<num9>
+  <img src="num9.jpg" width="100%" height="100%" />
+</num9>
+
+<num9_down>
+  <img src="num9_down.jpg" width="100%" height="100%" />
+</num9_down>
+
+<numStar>
+  <img src="numStar.jpg" width="100%" height="100%" />
+</numStar>
+
+<numStar_down>
+  <img src="numStar_down.jpg" width="100%" height="100%" />
+</numStar_down>
+
+<numPound>
+  <img src="numPound.jpg" width="100%" height="100%" />
+</numPound>
+
+<numPound_down>
+  <img src="numPound_down.jpg" width="100%" height="100%" />
+</numPound_down>
+
+<phone>
+  <img src="phone.jpg" width="100%" height="100%" />
+</phone>
+
+<phone_down>
+  <img src="phone_down.jpg" width="100%" height="100%" />
+</phone_down>
+
+<menu>
+  <img src="menu.jpg" width="100%" height="100%" />
+</menu>
+
+<menu_down>
+  <img src="menu_down.jpg" width="100%" height="100%" />
+</menu_down>
+
+<contacts>
+  <img src="contacts.jpg" width="100%" height="100%" />
+</contacts>
+
+<contacts_down>
+  <img src="contacts_down.jpg" width="100%" height="100%" />
+</contacts_down>
+
+<historyOn>
+  <img src="history_on.jpg" width="100%" height="100%" />
+</historyOn>
+
+<historyOn_down>
+  <img src="history_on_down.jpg" width="100%" height="100%" />
+</historyOn_down>
+
+<historyOff>
+  <img src="history.jpg" width="100%" height="100%" />
+</historyOff>
+
+<historyOff_down>
+  <img src="history_down.jpg" width="100%" height="100%" />
+</historyOff_down>
+
+</components>
+
+<layout>
+  <background width="879" height="950" />
+  <messageWaiting x="816" y="0" width="63" height="47" />
+  <screen x="407" y="85" />
+
+  <line1 x="809" y="155" width="28" height="28" />
+  <line2 x="758" y="177" width="28" height="28" />
+  <line3 x="811" y="202" width="28" height="28" />
+  <line4 x="757" y="226" width="28" height="28" />
+  <line5 x="810" y="250" width="28" height="28" />
+  <line6 x="757" y="274" width="28" height="28" />
+
+  <softkey1 x="417" y="394" width="76" height="31" />
+  <softkey2 x="493" y="394" width="76" height="31" />
+  <softkey3 x="569" y="394" width="76" height="31" />
+  <softkey4 x="645" y="394" width="76" height="31" />
+
+  <navUp x="508" y="444" width="119" height="37" />
+  <navDown x="508" y="544" width="119" height="37" />
+  <navLeft x="499" y="481" width="39" height="63" />
+  <navRight x="600" y="481" width="39" height="63" />
+  <select x="537" y="489" width="63" height="63" />
+
+  <num0 x="541" y="858" width="55" height="55" />
+  <num1 x="461" y="656" width="55" height="55" />
+  <num2 x="541" y="656" width="55" height="55" />
+  <num3 x="620" y="656" width="55" height="55" />
+  <num4 x="461" y="723" width="55" height="55" />
+  <num5 x="541" y="723" width="55" height="55" />
+  <num6 x="620" y="723" width="55" height="55" />
+  <num7 x="461" y="790" width="55" height="55" />
+  <num8 x="541" y="790" width="55" height="55" />
+  <num9 x="620" y="790" width="55" height="55" />
+  <numStar x="461" y="858" width="55" height="55" />
+  <numPound x="620" y="858" width="55" height="55" />
+
+  <contacts x="465" y="600" width="69" height="31" />
+  <menu x="534" y="600" width="70" height="31" />
+  <history x="605" y="600" width="68" height="31" />
+  <message x="413" y="481" width="69" height="69" />
+  <phone x="659" y="481" width="69" height="69" />
+
+  <forward x="379" y="721" width="55" height="55" />
+  <headset x="379" y="790" width="55" height="55" />
+  <speaker x="379" y="860" width="55" height="55" />
+  <volumeUp x="707" y="721" width="51" height="55" />
+  <volumeDown x="707" y="788" width="51" height="55" />
+  <mute x="707" y="860" width="55" height="55" />
+</layout>
+
+</skin>
