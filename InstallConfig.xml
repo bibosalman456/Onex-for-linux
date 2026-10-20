@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InstallConfig xmlns="http://xml.avaya.com/endpointAPI">
+	<CitrixMode>false</CitrixMode>
+	<CultureName>en-US</CultureName>
+	<DscpForVideo>0</DscpForVideo>
+	<EnableCCEIntegration>true</EnableCCEIntegration>
+	<EnableVideo>true</EnableVideo>
+	<IsUpgrade>false</IsUpgrade>
+	<MaxTrustCerts>-1</MaxTrustCerts>
+	<SignalProtocol>2</SignalProtocol>
+</InstallConfig>
