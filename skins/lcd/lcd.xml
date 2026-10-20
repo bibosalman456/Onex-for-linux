@@ -1,0 +1,56 @@
+<skin>
+<!--
+Colors: Colors may be specified as RGB values in the form of r,g,b. System color names may also be entered in text form.
+Recognized system colors are:
+  white
+  black
+  light gray
+  dark gray
+-->
+
+<components>
+
+<background>
+  <img src="background.jpg" width="100%" height="100%" />
+</background>
+
+<messageWaitingOn>
+  <img src="message_lamp_on.jpg" width="100%" height="100%" />
+</messageWaitingOn>
+
+<messageWaitingOff>
+  <img src="message_lamp_off.jpg" width="100%" height="100%" />
+</messageWaitingOff>
+
+<lineOn>
+  <img src="line_app_on.jpg" width="100%" height="100%" />
+</lineOn>
+
+<lineOn_down>
+  <img src="line_app_on_down.jpg" width="100%" height="100%" />
+</lineOn_down>
+
+<lineOff>
+  <img src="line_app_off.jpg" width="100%" height="100%" />
+</lineOff>
+
+<lineOff_down>
+  <img src="line_app_off_down.jpg" width="100%" height="100%" />
+</lineOff_down>
+
+</components>
+
+<layout>
+  <background width="499" height="295" />
+  <messageWaiting x="436" y="0" width="63" height="47" />
+  <screen x="27" y="27" />
+
+  <line1 x="429" y="97" width="28" height="28" />
+  <line2 x="378" y="119" width="28" height="28" />
+  <line3 x="431" y="144" width="28" height="28" />
+  <line4 x="377" y="168" width="28" height="28" />
+  <line5 x="430" y="192" width="28" height="28" />
+  <line6 x="377" y="216" width="28" height="28" />
+</layout>
+
+</skin>
